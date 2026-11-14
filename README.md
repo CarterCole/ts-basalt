@@ -1,3 +1,5 @@
+![TS-BASALT](.github/banner.png)
+
 # basalt-vault
 
 The reference implementation of [the Basalt Protocol v1](https://github.com/CarterCole/basalt/blob/main/protocol/PROTOCOL.md):
